@@ -1,0 +1,15 @@
+#template, .hidden {
+  display: none;
+}
+
+input[type="text"]
+{
+    width:200px;
+}
+
+.edit {
+  clear: both;
+  float:right;
+  width: 30px;
+  height: 18px;
+}
